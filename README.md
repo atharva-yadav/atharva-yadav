@@ -53,5 +53,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharva-yadav&" alt="atharva-yadav" /></p>
   
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=atharva-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-yadav" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-yadav" /> </p>
 
