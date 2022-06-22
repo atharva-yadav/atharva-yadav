@@ -54,4 +54,4 @@
 <p><img align="left" float="left" width="450" src="https://github-readme-stats.vercel.app/api?username=atharva-yadav&show_icons=true&locale=en" alt="atharva-yadav" /></p>
 <p><img align="left" float="right" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=atharva-yadav&" alt="atharva-yadav" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-yadav" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-yadav" /> </p> -->
