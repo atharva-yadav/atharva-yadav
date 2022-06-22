@@ -12,7 +12,7 @@
 
 - 🤝 I enjoy being **help to people and Solve problems**
 
-- 📝 I also write articles on [https://www.geeksforgeeks.org/](GeeksforGeeks), [https://atharvayadav.hashnode.dev/](Hashnode) and [https://atharvayadav.medium.com/](Medium)
+- 📝 I also write articles on [GeeksforGeeks](https://www.geeksforgeeks.org/), [Hashnode](https://atharvayadav.hashnode.dev/) and [Medium](https://atharvayadav.medium.com/)
 
 <!-- ### Blogs posts -->
 
