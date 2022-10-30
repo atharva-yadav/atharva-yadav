@@ -8,7 +8,7 @@
 
 - 🔭 I am in my Final Year of **Computer Engineering**
 
-- 🌱 I’m skilled at **C++, Python, Data Structures & Algorithms and Frontend Web Development**
+- 🌱 I’m skilled at **C++, Java (Core+Advanced), Python, Data Structures & Algorithms and Frontend Web Development**
 
 - 🤝 I enjoy being **help to people and Solve problems**
 
