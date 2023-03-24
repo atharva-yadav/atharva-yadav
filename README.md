@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, This is Atharva</h1>
 <h3 align="center">A passionate developer and Problem Solver from India</h3>
 
-
 <p align="center"> <a href="https://twitter.com/atharva_282" target="blank"><img src="https://img.shields.io/twitter/follow/atharva_282?logo=twitter&style=for-the-badge" alt="atharva_282" /></a> </p>
 
 <!-- ![ Follow](https://img.shields.io/twitter/follow/user_282?color=orange&label=Follow%20Atharva&style=flat-square) -->
@@ -10,9 +9,14 @@
 
 - 🌱 I’m skilled at **Frontend Web Development, PHP, NodeJs, C++, Java(Core+Advanced), Python, Data Structures & Algorithms**
 
-- 🤝 I enjoy being **help to people and Solve problems**
+- 📝 I have written articles on Platforms like [GeeksforGeeks](https://auth.geeksforgeeks.org/user/user282/articles), [Hashnode](https://atharvayadav.hashnode.dev/) and [Medium](https://atharvayadav.medium.com/)
 
-- 📝 I also write articles on [GeeksforGeeks](https://www.geeksforgeeks.org/), [Hashnode](https://atharvayadav.hashnode.dev/) and [Medium](https://atharvayadav.medium.com/)
+
+**Here are the links to those blogs:**
+
+- GeeksforGeeks: https://auth.geeksforgeeks.org/user/user282/articles
+- Hashnode: https://atharvayadav.hashnode.dev/
+- Medium: https://atharvayadav.medium.com/
 
 <!-- ### Blogs posts -->
 
