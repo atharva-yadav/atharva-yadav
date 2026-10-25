@@ -28,6 +28,7 @@ I am building clean UI systems, modernizing legacy products into SaaS, and writi
 ---
 
 ### ✍️ Writing
+- My Own Website: https://techcoder.tech/
 - Hashnode: https://atharvayadav.hashnode.dev/
 - Medium: https://atharvayadav.medium.com/
 - GeeksforGeeks: https://auth.geeksforgeeks.org/user/user282/articles
@@ -49,7 +50,7 @@ I am building clean UI systems, modernizing legacy products into SaaS, and writi
 ---
 
 ### 🤖 AI
-Building developer-focused AI tools using **open-source LLMs** + **LangChain** — focused on refactoring, documentation automation, and test generation.
+Building developer-focused AI tools using **open-source LLMs** + **LangChain** — focused on building ai assistants, documentation automation, and test generation.
 
 ---
 
